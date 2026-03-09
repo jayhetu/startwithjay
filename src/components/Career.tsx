@@ -15,43 +15,66 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Ikshan</h5>
+                <h4>Fractional CMO</h4>
+                <h5>Laser Eye Care and Research Center, Dubai</h5>
               </div>
-              <h3>2020</h3>
+              <h3>2024</h3>
             </div>
             <p>
-              Built 6+ complete applications using React.js. Integrated backend
-              authentication using Node.js & MongoDB. Created responsive UI/UX
-              and designed wireframes using Figma.
+              Leading the marketing strategy supporting 5M+ annual revenue while
+              improving consultation flow, messaging, and conversion performance.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Senior Full Stack Developer</h4>
-                <h5>Monocept (Max Life Insurance)</h5>
+                <h4>Co Founder</h4>
+                <h5>Impact XL</h5>
               </div>
               <h3>2021</h3>
             </div>
             <p>
-              Led two development teams on Mpro, a large-scale insurance
-              operations platform. Developed multiple modules using React.js &
-              migrated critical functionalities to Node.js microservices.
+              Helping companies build structured marketing systems that generate
+              Sales Qualified Leads and support revenue growth.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Logic Loop</h5>
+                <h4>Director of Performance Marketing</h4>
+                <h5>Health Before Wealth</h5>
               </div>
-              <h3>NOW</h3>
+              <h3>2021</h3>
             </div>
             <p>
-              Building Solid, a proprietary low-code platform using Angular,
-              Next.js & NestJS. Delivering production-ready CMS-based projects
-              including e-commerce, CRM, and import-export automation systems.
+              Leading growth strategy and marketing systems focused on sustainable
+              growth and long term customer value.
+            </p>
+          </div>
+          <div className="career-info-box">
+            <div className="career-info-in">
+              <div className="career-role">
+                <h4>Marketing and Operations Manager</h4>
+                <h5>Tech Firefly</h5>
+              </div>
+              <h3>2018</h3>
+            </div>
+            <p>
+              Led B2B client acquisition and marketing for companies in the San
+              Francisco Bay Area.
+            </p>
+          </div>
+          <div className="career-info-box">
+            <div className="career-info-in">
+              <div className="career-role">
+                <h4>Co Founder</h4>
+                <h5>HETU Infotech</h5>
+              </div>
+              <h3>2010</h3>
+            </div>
+            <p>
+              Worked with more than 300 brands and startups helping them build
+              their online presence and digital business models.
             </p>
           </div>
         </div>

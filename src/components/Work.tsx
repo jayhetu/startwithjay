@@ -5,33 +5,33 @@ import { MdArrowBack, MdArrowForward } from "react-icons/md";
 
 const projects = [
   {
-    title: "Solid Starters",
-    category: "Low-Code Platform",
-    tools: "Angular, Next.js, NestJS, MongoDB",
-    image: "/images/Solidx.png",
-  },
-  {
-    title: "Radix",
-    category: "E-Commerce",
-    tools: "Angular, Next.js, NestJS, CMS",
+    title: "Healthcare Business Growth",
+    category: "Fractional CMO",
+    tools: "Marketing Systems, Global Expansion, Consultations",
     image: "/images/radix.png",
   },
   {
-    title: "Bond Cancellation",
-    category: "Import-Export Automation",
-    tools: "Angular, Next.js, NestJS, Workflows",
-    image: "/images/bond.png",
-  },
-  {
-    title: "Sapphire",
-    category: "CRM Platform",
-    tools: "AngularJS, NestJS, PostgreSQL",
+    title: "$12M ARR Growth",
+    category: "Growth Strategy",
+    tools: "Sales Pipeline, Qualified Leads, Predictable Revenue",
     image: "/images/sapphire.png",
   },
   {
-    title: "Mpro",
-    category: "Insurance Platform",
-    tools: "React.js, Node.js, Microservices",
+    title: "B2B Sales System",
+    category: "Marketing Systems",
+    tools: "Pipeline Quality, Sales Alignment, Conversion",
+    image: "/images/Solidx.png",
+  },
+  {
+    title: "Health Coaching Growth",
+    category: "Client Acquisition",
+    tools: "Marketing Automation, Lead Gen, Scale (300+/mo)",
+    image: "/images/bond.png",
+  },
+  {
+    title: "ReviewPi & Ventures",
+    category: "SaaS & Products",
+    tools: "Product Strategy, Startups, Reputation Management",
     image: "/images/Maxlife.png",
   },
 ];

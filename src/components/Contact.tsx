@@ -10,54 +10,54 @@ const Contact = () => {
           <div className="contact-box">
             <h4>Email</h4>
             <p>
-              <a href="mailto:rajeshchittyal21@gmail.com" data-cursor="disable">
-                rajeshchittyal21@gmail.com
+              <a href="mailto:jay@hetu.me" data-cursor="disable">
+                jay@hetu.me
               </a>
             </p>
             <h4>Education</h4>
-            <p>BSc in Computer Science</p>
+            <p>MBA (in progress)<br />University of Gloucestershire</p>
           </div>
           <div className="contact-box">
-            <h4>Social</h4>
+            <h4>Social & Book</h4>
             <a
-              href="https://github.com/raxx21"
+              href="https://www.linkedin.com/in/jaxpatel/"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
             >
-              Github <MdArrowOutward />
+              LinkedIn <MdArrowOutward />
             </a>
             <a
-              href="https://www.linkedin.com/in/rajesh-chityal-2a70141b3"
+              href="https://www.youtube.com/@startwithJayP"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
             >
-              Linkedin <MdArrowOutward />
+              YouTube <MdArrowOutward />
             </a>
             <a
-              href="https://x.com/raxx21_official"
+              href="https://startwithjay.com"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
             >
-              Twitter <MdArrowOutward />
+              Website <MdArrowOutward />
             </a>
             <a
-              href="https://www.instagram.com/therajeshchityal"
+              href="https://cosmofeed.com/vp/655f0e35855cff001d2e7d35"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
             >
-              Instagram <MdArrowOutward />
+              My Book <MdArrowOutward />
             </a>
           </div>
           <div className="contact-box">
             <h2>
-              Designed and Developed <br /> by <span>Rajesh Chityal</span>
+              Designed and Developed <br /> for <span>Jay Patel</span>
             </h2>
             <h5>
-              <MdCopyright /> 2025
+              <MdCopyright /> 2026
             </h5>
           </div>
         </div>
